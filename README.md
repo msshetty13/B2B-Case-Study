@@ -6,7 +6,7 @@ Schuster is a multinational retail company dealing in sports goods and accessori
 
 To understand how to approach this problem using data science, let’s first understand the payment process at Schuster now. Every time a transaction of goods takes place with a vendor, the accounting team raises an invoice and shares it with the vendor. This invoice contains the details of the goods, the invoice value, the creation date and the payment due date based on the credit terms as per the contract. Business with these vendors occurs quite frequently. Hence, there are always multiple invoices associated with each vendor at any given time.
 
-****Goal ****
+**Goal**
 
 Schuster would like to better understand the customers’ payment behaviour based on their past payment patterns (customer segmentation).
 Using historical information, it wants to be able to predict the likelihood of delayed payment against open invoices from its customers.
